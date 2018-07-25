@@ -1,0 +1,1 @@
+ldapsearch -Q -LLL "(uid=z*)" cn | grep -v -e '^$' | grep -v -e '^dn' | sed 's/cn: //g' | sort -r -f

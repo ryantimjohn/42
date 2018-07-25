@@ -1,0 +1,6 @@
+Credentials cache: API:32837
+        Principal: tryan@42.US.ORG
+
+  Issued                Expires               Principal
+Mar 12 20:13:41 2018  Mar 13 06:13:10 2018  krbtgt/42.US.ORG@42.US.ORG
+Mar 12 20:26:03 2018  Mar 13 06:13:10 2018  host/vgs-fn1.42.us.org@42.US.ORG

@@ -1,0 +1,1 @@
+find . -name "*~" -exec basename {} \; -exec rm -f {} \;  -or -name "#*#" -exec basename {} \; -exec rm -f {} \;

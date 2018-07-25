@@ -1,0 +1,67 @@
+1. In the most concise way possible, answer this question, what is 42? How would you describe 42 to someone who doesn’t know what 42 is?
+
+42 is a free, non-profit coding school. Its curriculum is entirely project-based and peer-taught. Its focus is on teaching computer science in the most practical and job-oriented way: a minimum of theory, a maximum of actually using the concepts to solve problems.
+
+
+2. Why are there no instructions on the initial 42 logic tests?
+
+Firstly, 42 wants to make its tests language agnostic. Secondly, the ethos of 42 is to make sure people can figure out problems on their own without help from instructors. It'd be against the school's ethos to give explicit instructions on the logic exams.
+
+
+3. What are the core 42 principles?
+
+Peer-learning, gamification and no time bounds.
+
+
+4. If somebody is thinking of going to 42, but has no coding experience - do you really think it’s worth their time?
+
+I think 42 is most worthwhile for someone with no coding experience. It builds you up from nothing to very strong fundamentals in a very short time period. It teaches you more than just coding, it teaches you how computers work and gives you a foundation for doing truly novel computing.
+
+
+5. What makes 42 unique?
+
+The peer-learning, the fact that it is free, the fact that the possibilities at the school are limitless as long as you give them the minimumds they're looking for, the fact that you can really build from here to anywhere. That is not true of bootcamps which will try to get you to spend thousands of dollars for just a few weeks of instruction.
+
+
+6. What do you think you’re learning the most at 42?
+
+I am learning to be a self-starter, which is important for any career. I'm also learning to think like a programmer. 
+
+
+7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what to do - what your next steps would be?
+
+Talk to people who've been through the situation before, first and foremost. Ask them not to solve it for me, but what got them unstuck. Ask questions on StackOverflow. Go back and start the problem from scratch, from fundamentals, and ask myself what I could have been missing along the way.
+
+
+8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict dead- lines?
+
+First thing, showing up early every morning at 9AM is really important for me. Turning off my phone and never checking email at work. Making sure I talk to people when I'm not feeling well. Spending Saturdays with my best friend, who's a programmer at Uber. Continue doing the things that make me feel like a human being: working out, reading before I go to bed, eat well, sleep well, play music with friends, etc.
+
+
+9. If someone asks you why it says internships are required on the 42 website, but they do not offer job placement, what would you say?
+
+I would say that 42 does offer help getting internships through all the companies that visit the campus regularly. As for proper job placement, that should come through the connections we make during the internships.
+
+
+10. How do the internships work? Is it mandatory that you have to reach a certain level before leaving on an internship or can you validate it anytime you find one?
+
+There used to be a hard level-requirement of 7 to start internships. That's still a recommendation.
+
+
+11. How does 42 help you adapt to a work place?
+
+By focusing on team-based projects and not holding your hand the whole way through, having feedback only come at irregular intervals, 42 is much more like a job than taking a computer science degree at a traditional university.
+
+Bonus
+
+I talked to five cadets.
+
+1. Liam was in my piscine and just finished the C++ Piscine.
+
+2. Brian is working on the first branch of the C++ path and is working on a virtual machine in assembly language.
+
+3. Kim is working on several projects from the graphics path at once!
+
+4. Sepideh was working on putting her resume together for interships.
+
+5. Jo was also in my piscine. He is working fdf currently. 
